@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @motazsaad
 - 👀 I’m interested in AI, ML, NLP
-- 🌱 I’m currently learning 
+- 🌱 I’m longlife learner 
 - 💞️ I’m looking to collaborate on Arabic NLP research 
 - 📫 How to reach me? by email 
 
