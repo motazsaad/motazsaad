@@ -7,6 +7,7 @@
   <a href="https://www.researchgate.net/profile/Motaz_Saad"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&amp;logo=researchgate&amp;logoColor=white" /></a>
   <a href="https://www.scopus.com/authid/detail.uri?authorId=56494148300"><img src="https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&amp;logo=scopus&amp;logoColor=white" /></a>
   <a href="https://github.com/motazsaad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+  <a href="https://youtube.com/@motazsaad"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" /></a>
 </p>
 
 ---
