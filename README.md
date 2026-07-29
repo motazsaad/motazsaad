@@ -2,11 +2,11 @@
 <h3 align="center">AI / ML / NLP / LLMs Researcher</h3>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=KR1lIXUAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
-  <a href="https://orcid.org/0000-0002-1080-7276"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-  <a href="https://www.researchgate.net/profile/Motaz_Saad"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=56494148300"><img src="https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&logo=scopus&logoColor=white" /></a>
-  <a href="https://github.com/motazsaad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=KR1lIXUAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&amp;logo=google-scholar&amp;logoColor=white" /></a>
+  <a href="https://orcid.org/0000-0002-1080-7276"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Motaz_Saad"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&amp;logo=researchgate&amp;logoColor=white" /></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=56494148300"><img src="https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&amp;logo=scopus&amp;logoColor=white" /></a>
+  <a href="https://github.com/motazsaad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 </p>
 
 ---
@@ -25,8 +25,8 @@ I'm a researcher passionate about **Artificial Intelligence**, **Machine Learnin
 ### GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=motazsaad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motazsaad&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=motazsaad&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motazsaad&amp;layout=compact&amp;langs_count=8&amp;theme=algolia"/>
 </p>
 
 ---
@@ -47,13 +47,13 @@ I'm a researcher passionate about **Artificial Intelligence**, **Machine Learnin
 ### Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
 </p>
 
 ---
