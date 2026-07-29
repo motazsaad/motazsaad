@@ -8,6 +8,7 @@
   <a href="https://www.scopus.com/authid/detail.uri?authorId=56494148300"><img src="https://img.shields.io/badge/Scopus-E9711C?style=for-the-badge&amp;logo=scopus&amp;logoColor=white" /></a>
   <a href="https://github.com/motazsaad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
   <a href="https://youtube.com/@motazsaad"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" /></a>
+  <a href="https://mksaad.wordpress.com/"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" /></a>
 </p>
 
 ---
