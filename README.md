@@ -1,5 +1,5 @@
 <h1 align="center">Motaz Saad</h1>
-<h3 align="center">AI / ML / NLP / LLMs Researcher</h3>
+<h3 align="center">PhD | AI | NLP | LLMs | RAG | AI Agents | Data Engineering | Data Science | Big Data | Machine Learning | Deep Learning | Generative AI</h3>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=KR1lIXUAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&amp;logo=google-scholar&amp;logoColor=white" /></a>
