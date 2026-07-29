@@ -13,12 +13,7 @@
 
 ### About Me
 
-I'm a researcher passionate about **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing**, and **Large Language Models**.
-
-- I'm currently exploring NLP & LLMs
-- I'm a lifelong learner
-- I'm looking to collaborate on AI/ML research
-- Reach me by email
+Motaz Saad is a Researcher and university professor in Artificial Intelligence. He holds a PhD in AI and NLP from the University of Lorraine, France, and previously worked as a researcher at the LORIA-INRIA research lab. Motaz brings over 15 years of diverse experience spanning both academia and industry.
 
 ---
 
