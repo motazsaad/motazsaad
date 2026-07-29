@@ -18,14 +18,7 @@ Motaz Saad is a Researcher and university professor in Artificial Intelligence. 
 
 ---
 
-### GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=motazsaad&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motazsaad&amp;layout=compact&amp;langs_count=8&amp;theme=algolia"/>
-</p>
-
----
 
 ### Research Profiles
 
